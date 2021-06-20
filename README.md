@@ -3,7 +3,7 @@
 
 사용자의 선호도를 분석하여 Top-k 질의처리를 합니다.
 
-![img](./img/terminal.png)
+![img](/img/terminal.png)
 
 
 
